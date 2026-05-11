@@ -24,7 +24,7 @@ dist-ssr
 *.sw?
 
 #environment variables
-.env
+backend/.env
 .env.test
 .env.*.local
 
